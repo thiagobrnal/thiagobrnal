@@ -7,11 +7,11 @@ Estudiante de Ingeniería en Informática | Desarrollador Backend
 
 ## 📊 GitHub Stats:
 
-[![Thiago Bernla GitHub stats](https://github-readme-stats.vercel.app/api?BlockWizard=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Thiago Bernal GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagobrnal)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?BlockWizard=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobrnal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-¡Gracias por visitar mi perfil! Estoy emocionado por lo que depara el futuro en mi camino como desarrollador backend. También puedes encontrarme en LinkedIn [Inserta tu perfil de LinkedIn] para mantenernos en contacto.
+¡Gracias por visitar mi perfil! Estoy emocionado por lo que depara el futuro en mi camino como desarrollador backend. 
 <!--
 **thiagobrnal/thiagobrnal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
