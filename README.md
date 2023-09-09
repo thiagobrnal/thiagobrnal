@@ -3,7 +3,7 @@ Estudiante de Ingeniería en Informática | Desarrollador Backend
 
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado estudiante de ingeniería en informática con un interés especial en el desarrollo backend. Aquí encontrarás una muestra de mis proyectos, contribuciones y habilidades técnicas.
 
-![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=SPRING%2CSPRING%2C26992f%3BJAVA%2CJAVA%2Cda0d0d%3BBootstrap%2CBootstrap%2C7b03a5%3BHTML5%2CHTML5%2Cdd7904%3BCSS3%2CCSS3%2C134bc7%3BJavaScript%2CJavaScript%2Cf2f03f%3BMysql%2CMysql%2C0859c7%3BmariaDB%2CmariaDB%2C1a14c6%3B)
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=SPRING%2CSPRING%2C0bb63f%3BBOOTSTRAP%2CBOOTSRAP%2C6b36c7%3BMYSQL%2CMySQL%2C2627d5%3BmariaDB%2CmariaDB%2C1c2da8%3B&line2=JAVA%2CJAVA%2Caa1919%3BHTML5%2CHTML5%2Cea7702%3BCSS3%2CCSS3%2C0736b3%3BJavaScript%2CJavaScript%2Cdde326%3B)
 
 ## 📊 GitHub Stats:
 
