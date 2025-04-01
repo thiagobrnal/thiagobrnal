@@ -1,6 +1,7 @@
 ## Hola, soy Thiago
 
 Soy un desarrollador de 21 años de edad, actualmente un desarrollador principalmente enfocado en el backend y estudiante de Ingenieria en Informatica.
+
 Tengo experiencia creando APis Rest con java en el ecosistema de spring, ademas haciendo plugins de Minecraft para las APIs de Spigot con java y desarrollo de sistemas embebidos en Arduino.
 
 ## 📊 Tecnologias:
